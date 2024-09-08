@@ -165,3 +165,7 @@ nav {
 .cta-button:hover {
     background-color: #7ACE33;
 }
+
+ul {
+    list-style: disc; /* This will ensure bullets are shown */
+}
